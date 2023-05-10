@@ -1,6 +1,3 @@
-Hola
-print "hola"
-cookies
-napoles
-naranjas
-duras y agrias
+Hola 
+Primer assignment
+primer commit
